@@ -25,8 +25,8 @@ A small Python utility will also validate the network addressing plan and detect
 
 - [x] Repository created
 - [x] Project structure prepared
-- [ ] Network requirements defined
-- [ ] Addressing plan created
+- [x] Network requirements defined
+- [x] Addressing plan created
 - [ ] Initial LAN configured
 - [ ] VLANs configured
 - [ ] Routing configured
