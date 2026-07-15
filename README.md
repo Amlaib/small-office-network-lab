@@ -20,6 +20,7 @@ A small Python utility will also validate the network addressing plan and detect
 - Guest-network access restrictions
 - Network testing and troubleshooting
 - Python subnet validation
+- Optional dual-stack IPv6 configuration and testing
 
 ## Current progress
 
