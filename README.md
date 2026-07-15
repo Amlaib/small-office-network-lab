@@ -1,13 +1,11 @@
-# small-office-network-lab
+# Small Office Network Lab
 A practical Cisco Packet Tracer project covering VLANs, IP addressing, DHCP, routing, access controls, troubleshooting and Python-based subnet validation.
 
-# Small Office Network Lab
 
 > Status: Work in progress
 
-A practical networking project created as part of my transition from software QA into computer networking and infrastructure support.
 
-The project will simulate a small office network using Cisco Packet Tracer. It will include separate departmental networks, IP addressing, VLANs, DHCP, routing, internal services, access controls and documented troubleshooting scenarios.
+The project simulates a small office network using Cisco Packet Tracer. It will include separate departmental networks, IP addressing, VLANs, DHCP, routing, internal services, access controls and documented troubleshooting scenarios.
 
 A small Python utility will also validate the network addressing plan and detect overlapping subnets.
 
