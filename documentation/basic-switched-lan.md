@@ -48,4 +48,3 @@ After restoring Admin-PC2 to `192.168.10.102/24`, connectivity returned.
 - `01-basic-lan-topology.png`
 - `02-basic-lan-successful-ping.png`
 - `03-switch-mac-table.png`
-- `03-switch-mac-table.png`
