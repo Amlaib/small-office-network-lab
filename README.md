@@ -29,7 +29,7 @@ A small Python utility will also validate the network addressing plan and detect
 - [x] Network requirements defined
 - [x] Addressing plan created
 - [x] Initial LAN configured
-- [ ] VLANs configured
+- [x] VLANs configured
 - [ ] Routing configured
 - [ ] DHCP configured
 - [ ] Internal services configured
