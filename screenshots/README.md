@@ -25,3 +25,4 @@ Related documents:
 
 - `documentation/basic-switched-lan.md`
 - `documentation/vlan-configuration.md`
+- `documentation/inter-vlan-routing.md`
