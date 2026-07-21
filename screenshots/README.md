@@ -16,6 +16,9 @@ This directory contains visual evidence for the Packet Tracer network lab.
 | `08-router-subinterfaces.png` | Shows router subinterfaces configured as gateways for VLANs 10, 20, 30 and 40. |
 | `09-inter-vlan-routing-success.png` | Shows successful communication between different VLANs after routing was configured. |
 | `10-router-routing-table.png` | Shows directly connected routes for all four VLAN networks. |
+| `11-dhcp-pools.png` | Shows DHCP pools configured on R1 for VLANs 10, 20 and 30. |
+| `12-dhcp-client-ipconfig.png` | Shows a client receiving IPv4 configuration automatically through DHCP. |
+| `13-dhcp-bindings.png` | Shows active DHCP leases assigned by R1. |
 
 ## Notes
 
@@ -26,3 +29,4 @@ Related documents:
 - `documentation/basic-switched-lan.md`
 - `documentation/vlan-configuration.md`
 - `documentation/inter-vlan-routing.md`
+- `documentation/dhcp-configuration.md`
