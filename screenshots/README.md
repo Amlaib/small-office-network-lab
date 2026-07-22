@@ -19,6 +19,10 @@ This directory contains visual evidence for the Packet Tracer network lab.
 | `11-dhcp-pools.png` | Shows DHCP pools configured on R1 for VLANs 10, 20 and 30. |
 | `12-dhcp-client-ipconfig.png` | Shows a client receiving IPv4 configuration automatically through DHCP. |
 | `13-dhcp-bindings.png` | Shows active DHCP leases assigned by R1. |
+| `14-server-http-service.png` | Shows HTTP service enabled on the Internal Server. |
+| `15-server-dns-record.png` | Shows the DNS A record mapping `intranet.office.test` to `192.168.40.10`. |
+| `16-client-dns-resolution.png` | Shows a client resolving `intranet.office.test` to `192.168.40.10`. |
+| `17-internal-web-by-hostname.png` | Shows successful browser access to the internal web page by hostname. |
 
 ## Notes
 
@@ -30,3 +34,4 @@ Related documents:
 - `documentation/vlan-configuration.md`
 - `documentation/inter-vlan-routing.md`
 - `documentation/dhcp-configuration.md`
+- `documentation/internal-services.md`

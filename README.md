@@ -32,7 +32,7 @@ A small Python utility will also validate the network addressing plan and detect
 - [x] VLANs configured
 - [x] Routing configured
 - [x] DHCP configured
-- [ ] Internal services configured
+- [x] Internal services configured
 - [ ] Security rules configured
 - [ ] Troubleshooting scenarios documented
 - [ ] Python subnet validator implemented
