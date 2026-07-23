@@ -34,5 +34,5 @@ A small Python utility will also validate the network addressing plan and detect
 - [x] DHCP configured
 - [x] Internal services configured
 - [x] Security rules configured
-- [ ] Troubleshooting scenarios documented
+- [x] Troubleshooting scenarios documented
 - [ ] Python subnet validator implemented

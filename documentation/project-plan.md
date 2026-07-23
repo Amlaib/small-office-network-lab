@@ -38,4 +38,4 @@ Planned documentation prefixes:
 
 ## Current stage
 
-The business requirements, VLAN structure and IPv4 addressing plan have been defined.
+The lab now includes VLANs, inter-VLAN routing, DHCP, internal DNS/web services, guest access restrictions and documented troubleshooting scenarios.
