@@ -23,6 +23,9 @@ This directory contains visual evidence for the Packet Tracer network lab.
 | `15-server-dns-record.png` | Shows the DNS A record mapping `intranet.office.test` to `192.168.40.10`. |
 | `16-client-dns-resolution.png` | Shows a client resolving `intranet.office.test` to `192.168.40.10`. |
 | `17-internal-web-by-hostname.png` | Shows successful browser access to the internal web page by hostname. |
+| `18-guest-acl-configuration.png` | Shows the ACL configured to restrict Guest VLAN access. |
+| `19-guest-access-blocked.png` | Shows Guest traffic blocked from accessing internal resources. |
+| `20-authorized-access-still-works.png` | Shows authorised Admin or Support access still working after ACL configuration. |
 
 ## Notes
 
@@ -35,3 +38,4 @@ Related documents:
 - `documentation/inter-vlan-routing.md`
 - `documentation/dhcp-configuration.md`
 - `documentation/internal-services.md`
+- `documentation/guest-access-restrictions.md`

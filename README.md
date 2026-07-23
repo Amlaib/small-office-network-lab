@@ -33,6 +33,6 @@ A small Python utility will also validate the network addressing plan and detect
 - [x] Routing configured
 - [x] DHCP configured
 - [x] Internal services configured
-- [ ] Security rules configured
+- [x] Security rules configured
 - [ ] Troubleshooting scenarios documented
 - [ ] Python subnet validator implemented
