@@ -1,0 +1,65 @@
+{
+  "vlans": [
+    {
+      "vlan_id": 10,
+      "name": "Administration",
+      "ipv4": {
+        "network_cidr": "192.168.10.0/24",
+        "gateway": "192.168.10.1",
+        "dhcp_range": {
+          "start": "192.168.10.100",
+          "end": "192.168.10.199"
+        }
+      },
+      "static_hosts": []
+    },
+    {
+      "vlan_id": 20,
+      "name": "Technical Support",
+      "ipv4": {
+        "network_cidr": "192.168.20.0/24",
+        "gateway": "192.168.20.1",
+        "dhcp_range": {
+          "start": "192.168.20.100",
+          "end": "192.168.20.199"
+        }
+      },
+      "static_hosts": []
+    },
+    {
+      "vlan_id": 30,
+      "name": "Guest",
+      "ipv4": {
+        "network_cidr": "192.168.30.0/24",
+        "gateway": "192.168.30.1",
+        "dhcp_range": {
+          "start": "192.168.30.100",
+          "end": "192.168.30.199"
+        }
+      },
+      "static_hosts": []
+    },
+    {
+      "vlan_id": 40,
+      "name": "Servers",
+      "ipv4": {
+        "network_cidr": "192.168.40.0/24",
+        "gateway": "192.168.40.1",
+        "dhcp_range": null
+      },
+      "static_hosts": [
+        {
+          "name": "Internal-Server",
+          "ipv4_address": "192.168.40.10"
+        }
+      ]
+    }
+  ],
+  "dns_records": [
+    {
+      "hostname": "intranet.office.test",
+      "type": "A",
+      "address": "192.168.40.10"
+    }
+  ]
+}

@@ -26,6 +26,7 @@ This directory contains visual evidence for the Packet Tracer network lab.
 | `18-guest-acl-configuration.png` | Shows the ACL configured to restrict Guest VLAN access. |
 | `19-guest-access-blocked.png` | Shows Guest traffic blocked from accessing internal resources. |
 | `20-authorized-access-still-works.png` | Shows authorised Admin or Support access still working after ACL configuration. |
+| `21-python-subnet-validator-pass.png` | Shows the Python subnet validator passing all addressing-plan checks. |
 
 ## Notes
 
@@ -39,3 +40,4 @@ Related documents:
 - `documentation/dhcp-configuration.md`
 - `documentation/internal-services.md`
 - `documentation/guest-access-restrictions.md`
+- `documentation/python-subnet-validator.md`
